@@ -21,7 +21,7 @@ img {
   max-width: 100%;
   height: auto;
   display: block;
-  border-radius: 50%;
+  border-radius: 50px;
 }
 
 .subtitulo {
