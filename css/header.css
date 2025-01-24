@@ -1,3 +1,10 @@
+.nome {
+  color: #000;
+  font-size: 3.5rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
 .header {
   max-width: 1200px;
   padding: 40px 20px;

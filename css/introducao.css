@@ -19,12 +19,13 @@
   content: "";
   display: block;
   width: 130px;
-  height: 100px;
-  background: url("../img/detalhe.svg") no-repeat center;
+  height: 60px;
+  background: linear-gradient(to right, #e1b739, #a600ff);
   position: absolute;
-  top: -15px;
-  left: -40px;
+  top: -5px;
+  left: -50px;
   z-index: -1;
+  border-radius: 4px;
 }
 
 .introducao p {
