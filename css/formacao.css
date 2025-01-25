@@ -18,7 +18,7 @@
   display: block;
   width: 130px;
   height: 60px;
-  background: linear-gradient(to right, #e1b739, #a600ff);
+  background: linear-gradient(to right, #daa405, #a600ff);
   position: absolute;
   bottom: -30px;
   left: 20px;
@@ -78,7 +78,7 @@
   display: block;
   width: 4px;
   height: 20px;
-  background: linear-gradient(#e1b739, #a600ff);
+  background: linear-gradient(#daa405, #a600ff);
   position: absolute;
   left: -24px;
 }
@@ -116,7 +116,7 @@
   display: block;
   width: 20px;
   height: 4px;
-  background: linear-gradient(to right, #e1b739, #a600ff);
+  background: linear-gradient(to right, #daa405, #a600ff);
   position: absolute;
   top: 8px;
 }
@@ -126,7 +126,7 @@
   display: block;
   width: 20px;
   height: 4px;
-  background: linear-gradient(to right, #e1b739, #a600ff);
+  background: linear-gradient(to right, #daa405, #a600ff);
   position: absolute;
   top: 8px;
 }
